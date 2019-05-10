@@ -1,0 +1,8 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:utcn-sd-serban/assignment-2-icsaszar.git
+	branch = assign3
+[submodule "backend"]
+	path = backend
+	url = git@github.com:utcn-sd-serban/assignment-1-icsaszar.git
+	branch = assign3
